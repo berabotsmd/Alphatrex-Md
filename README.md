@@ -1,7 +1,7 @@
 hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## **IANS**-𝐌𝐃 V5.0.0 𝐋𝐀𝐓𝐄𝐒𝐓
+## **ALPHATREX**-𝐌𝐃 V5.0.0 𝐋𝐀𝐓𝐄𝐒𝐓
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 **POPKID TECH**
+## 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 **BERA TECH**
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
@@ -9,7 +9,7 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </p>
 <div align="center">
 
-| [![POPKID KE](https://telegra.ph/file/76337c73fe48a2aa4466b.jpg?lenght=50width=50)](https://github.com/Popkidtech)|
+| [![BERA KE](https://telegra.ph/file/76337c73fe48a2aa4466b.jpg?lenght=50width=50)](https://github.com/Popkidtech)|
 |----|
 
 <p align="center">
@@ -19,26 +19,26 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Popkid-ke? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/popkid-ke?label=Followers&style=social"></a>
-<a href="https://github.com/popkid-ke/popkid-ke/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/popkid-ke?&style=social"></a>
-<a href="https://github.com/POPKID-KE/POPKID-ke/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkid-ke/popkid-ke?style=social"></a>
-<a href="https://github.com/Popkid-ke/Popkid-ke/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkidtech/Popkid-ke?label=Watching&style=social"></a>
+<a href="https://github.com/berabotsmd/Alphatrex-Md? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/popkid-ke?label=Followers&style=social"></a>
+<a href="https://github.com/berabotsmd/Alphatrex-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/popkid-ke?&style=social"></a>
+<a href="https://github.com/POPKID-KE/POPKID-ke/network/members"><img title="Forks" src="https://img.shields.io/github.com/berabotsmd/Alphatrex-Md?style=social"></a>
+<a href="https://github.com/berabotsmd/Alphatrex-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkidtech/Popkid-ke?label=Watching&style=social"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
   ## MUST FOLLOW OUR OFFICIAL CHANNEL
-<a href="https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F" target="_blank">
+<a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## SETUP FOR *POPKID* 𝗠𝗗
+## SETUP FOR *Alphatrex* 𝗠𝗗
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/popkidtech/IANS-MD/fork"><img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK IANS-MD REPO" width="150"></a>
+<a [href="https://github.com/berabotsmd/Alphatrex-Md/fork">]<img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK Alphatrex-MD REPO" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
